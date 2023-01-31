@@ -13,3 +13,5 @@ export function SignIn() {
     </VStack>
   )
 }
+
+/** AULA 7 - Utilizando SVG */
